@@ -4,6 +4,7 @@ import { Todo } from "../app/interfaces/Todo";
 import TodoList from "../app/components/TodoList";
 import AddTodo from "../app/components/AddTodo";
 
+// todo to ToDd
 const App: React.FC = () => {
   const [todos, setTodos] = useState<Todo[]>([]);
 
