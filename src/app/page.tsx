@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { Todo } from "../app/interfaces/todo";
+import { Todo } from "../app/interfaces/Todo";
 import TodoList from "../app/components/TodoList";
 import AddTodo from "../app/components/AddTodo";
 
